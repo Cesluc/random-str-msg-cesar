@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-cesar",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesluc/random-str-msg-cesar.git"
+  },
+  "keywords": [],
+  "author": "Cesar lucumi <clucumi.94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cesluc/random-str-msg-cesar/issues"
+  },
+  "homepage": "https://github.com/Cesluc/random-str-msg-cesar#readme",
+  "bin":{
+    "random-str-msg-cesar":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
